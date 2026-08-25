@@ -1,37 +1,58 @@
 ### Gabriel de Conto Oliveira
 
-`Estudante de Ciência da Computação` · `5º Semestre @ Universidade São Judas Tadeu` · `Em busca da 1ª oportunidade em tech`
+`Estudante de Ciência da Computação` · `5º Semestre @ Universidade São Judas Tadeu` · `Em busca da 1ª oportunidade em Dados`
 
-Estudante de Ciência da Computação, com foco em análise de dados e desenvolvimento web. Sempre buscando aprender mais através de cursos complementares.
+Estudante de Ciência da Computação com foco em **Análise de Dados**, buscando desenvolver conhecimentos na transformação de dados em informações e insights para tomada de decisão.
 
-- Análise de Dados, Desenvolvimento Web, Back-end.
-- Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, TypeScript, React, Express.js.
+Atualmente aprofundando meus conhecimentos através de projetos práticos e cursos complementares.
+
+- 📊 Análise Exploratória de Dados (EDA)
+- 🧹 Limpeza e tratamento de dados
+- 📈 Visualização de dados
+- 🐍 Python para análise de dados
+- 🗄️ SQL para consulta e análise de dados
 
 ---
 
 ### 🛠️ Stack
 
-#### 📊 Data & Analytics
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,postgresql&theme=light" />
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  &nbsp;&nbsp;
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
 </p>
 
 <p>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn"/>
+  <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" title="Seaborn"/>
+  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791" title="SQL"/>
 </p>
 
-#### 🌐 Web Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,express&theme=light" />
-</p>
+### 🚀 Projetos
 
-#### 🛠️ Tools
+#### 📊 SuperStore — Análise Exploratória de Vendas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-</p>
+Análise exploratória de uma base com **51 mil+ registros**, buscando identificar padrões e gerar insights sobre vendas, lucro, categorias, regiões e segmentos.
+
+**Tecnologias:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit`
+
+🔗 [Ver projeto](https://github.com/Gab-Bit-bit/superstore-eda-python)
+
+---
+
+### 📚 Atualmente estudando
+
+- 🗄️ **SQL** para Análise de Dados
+- 📊 **Análise Exploratória de Dados**
+- 📈 **Visualização de Dados**
+- 🐍 **Python** aplicado a Dados
 
 ---
 
