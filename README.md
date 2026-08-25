@@ -4,17 +4,9 @@
 
 Estudante de Ciência da Computação com foco em **Análise de Dados**, buscando desenvolver conhecimentos na transformação de dados em informações e insights para tomada de decisão.
 
-Atualmente aprofundando meus conhecimentos através de projetos práticos e cursos complementares.
-
-- 📊 Análise Exploratória de Dados (EDA)
-- 🧹 Limpeza e tratamento de dados
-- 📈 Visualização de dados
-- 🐍 Python para análise de dados
-- 🗄️ SQL para consulta e análise de dados
-
 ---
 
-### 🛠️ Stack
+### STACK
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" alt="Python"/>
