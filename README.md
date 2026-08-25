@@ -4,7 +4,7 @@
 
 Estudante de Ciência da Computação, com foco em análise de dados e desenvolvimento web. Sempre buscando aprender mais através de cursos complementares.
 
-- Análise de Dados, Desenvolvimento Web, Back-end.
+- Análise de Dados
 - Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, TypeScript, React, Express.js.
 
 <p>
