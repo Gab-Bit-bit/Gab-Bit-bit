@@ -17,33 +17,18 @@ Atualmente aprofundando meus conhecimentos através de projetos práticos e curs
 ### 🛠️ Stack
 
 <p>
-  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"/>
   &nbsp;&nbsp;
-  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas"/>
   &nbsp;&nbsp;
-  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy"/>
   &nbsp;&nbsp;
-  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"/>
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib"/>
   &nbsp;&nbsp;
-  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn"/>
+  &nbsp;&nbsp;
+  <img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="SQL / PostgreSQL" alt="SQL / PostgreSQL"/>
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" title="Seaborn"/>
-  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791" title="SQL"/>
-</p>
-
----
-
-### 🚀 Projetos
-
-#### 📊 SuperStore — Análise Exploratória de Vendas
-
-Análise exploratória de uma base com **51 mil+ registros**, buscando identificar padrões e gerar insights sobre vendas, lucro, categorias, regiões e segmentos.
-
-**Tecnologias:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit`
-
-🔗 [Ver projeto](https://github.com/Gab-Bit-bit/superstore-eda-python)
 
 ---
 
