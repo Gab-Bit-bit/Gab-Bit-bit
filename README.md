@@ -19,12 +19,12 @@ Estudante de Ciência da Computação com foco em **Análise de Dados**, buscand
 
 ---
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
-- 🗄️ **SQL** para Análise de Dados
-- 📊 **Análise Exploratória de Dados**
-- 📈 **Visualização de Dados**
-- 🐍 **Python** aplicado a Dados
+-  **SQL** para Análise de Dados
+-  **Análise Exploratória de Dados**
+-  **Visualização de Dados**
+-  **Python** aplicado a Dados
 
 ---
 
