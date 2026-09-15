@@ -15,16 +15,18 @@ Estudante de Ciência da Computação com foco em **Análise de Dados**, buscand
   <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI"/>
 </p>
 
 ---
 
 ### Atualmente estudando
 
--  **SQL** para Análise de Dados
--  **Análise Exploratória de Dados**
--  **Visualização de Dados**
--  **Python** aplicado a Dados
+* **Power BI** para análise e visualização de dados
+* **SQL** para Análise de Dados
+* **Análise Exploratória de Dados**
+* **Visualização de Dados**
+* **Python** aplicado a Dados
 
 ---
 
