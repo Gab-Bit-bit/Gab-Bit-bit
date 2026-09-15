@@ -8,26 +8,36 @@ Estudante de Ciência da Computação com foco em **Análise de Dados**, buscand
 
 ### STACK
 
-### STACK
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas" alt="Pandas"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy" alt="NumPy"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45" height="45" title="Matplotlib" alt="Matplotlib"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL" alt="PostgreSQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/power-bi.svg" width="45" height="45" title="Power BI" alt="Power BI"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/><br>
+        <b>Python</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45"/><br>
+        <b>Pandas</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/><br>
+        <b>NumPy</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45"/><br>
+        <b>Matplotlib</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/><br>
+        <b>PostgreSQL</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="45"/><br>
+        <b>Power BI</b>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br>
-
-**Python**   ·   **Pandas**   ·   **NumPy**   ·   **Matplotlib**   ·   **PostgreSQL**   ·   **Power BI**
-
 
 ---
 
