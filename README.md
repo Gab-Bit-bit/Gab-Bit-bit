@@ -8,7 +8,36 @@ Estudante de Ciência da Computação com foco em **Análise de Dados**, buscand
 
 ### STACK
 
-**Python** · **Pandas** · **NumPy** · **Matplotlib** · **Seaborn** · **PostgreSQL** · **Power BI**
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/><br>
+        <b>Python</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45"/><br>
+        <b>Pandas</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/><br>
+        <b>NumPy</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45"/><br>
+        <b>Matplotlib</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/><br>
+        <b>PostgreSQL</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="45"/><br>
+        <b>Power BI</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
