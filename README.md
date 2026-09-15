@@ -8,15 +8,7 @@ Estudante de Ciência da Computação com foco em **Análise de Dados**, buscand
 
 ### STACK
 
-<p>
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=000000" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=000000" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Power_BI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI"/>
-</p>
+**Python** · **Pandas** · **NumPy** · **Matplotlib** · **Seaborn** · **PostgreSQL** · **Power BI**
 
 ---
 
